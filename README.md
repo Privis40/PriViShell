@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PriviShell
+# 🛡️ PriviShell 🛡️
 
 ![PriViShell Dashboard](PriViShell.PNG)
 
