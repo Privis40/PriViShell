@@ -1,7 +1,14 @@
-# PriViShell-Stealth
+<div align="center">
+
+# 🛡️ PriVi-Shell: Developed by: PriViSecurity**
+
+![PriVi-Shell Dashboard](PriViShell.PNG)
+
+</div>
+
 Advanced Multi-Platform Reverse Shell Generator with AMSI Bypass.
 
-# ⚡ PriViShell v2.0 [STEALTH]
+# ⚡ PriViShell v1.0 [STEALTH]
 ### Multi-Platform Reverse Shell Generator with AMSI Bypass
 **Developed by [Prince Ubebe](https://github.com/YOUR_GITHUB_USERNAME) | PriViSecurity**
 
