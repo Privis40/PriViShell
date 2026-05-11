@@ -149,8 +149,7 @@ It generates payload strings only. Deployment is entirely manual and the sole re
 ## Author & Brand
 
 **Prince Ubebe**
-Cybersecurity Analyst | Security Automation Engineer | Founder, PriViSecurity Solutions
-CAC Registered: No. 9511950
+Cybersecurity Analyst | Security Automation Engineer
 
 - GitHub: [github.com/Privis40](https://github.com/Privis40)
 - LinkedIn: [https://www.linkedin.com/in/prince-ubebe-291573321]
