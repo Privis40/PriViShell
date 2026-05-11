@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ PriviShell: Developed by: PriViSecurity
+# 🛡️ PriviShell
 
 ![PriViShell Dashboard](PriViShell.PNG)
 
