@@ -1,4 +1,12 @@
-# PriViShell v3.0
+<div align="center">
+
+# 🛡️ PriviShell: Developed by: PriViSecurity
+
+![PriViShell Dashboard](PriViShell.PNG)
+
+</div>
+
+# PriViShell v1.0
 ### Reverse Shell Payload Generator
 **Developed by Prince Ubebe | [PriViSecurity Solutions](https://github.com/Privis40)**
 
