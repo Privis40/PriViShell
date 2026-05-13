@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ╔══════════════════════════════════════════════════════════════════╗
-║       PriViShell v3.0                                            ║
+║       PriViShell v1.0                                            ║
 ║       Reverse Shell Payload Generator                            ║
 ║       Developed by Prince Ubebe | PriViSecurity                  ║
 ╚══════════════════════════════════════════════════════════════════╝
